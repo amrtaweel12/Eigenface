@@ -1,0 +1,13 @@
+M = 10 Image = 10 and MSE =936.7069
+M = 10 Image = 11 and MSE =761.7583
+M = 20 Image = 10 and MSE =611.97833
+M = 20 Image = 11 and MSE =528.27185
+M = 50 Image = 10 and MSE =318.9195
+M = 50 Image = 11 and MSE =307.64954
+M = 100 Image = 10 and MSE =180.82185
+M = 100 Image = 11 and MSE =202.22008
+M = 200 Image = 10 and MSE =46.65818
+M = 200 Image = 11 and MSE =65.43832
+M = 300 Image = 10 and MSE =13.896487
+M = 300 Image = 11 and MSE =8.919777
+The minimum m is 26
