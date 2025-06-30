@@ -1,6 +1,6 @@
 # Eigenface
 In this project, we implemented the Eigenfaces method for image reconstruction and face recognition. This was our term project for the Numerical Methods course, and we completed five main tasks.
-#TASK 1 - Data Preprocessing:
+# TASK 1 - Data Preprocessing:
 In this task, we computed the mean face of the entire ORL dataset. We also implemented the mean face computation on a subset of 10 images and compared the results.
 # TASK 2 - Compute Eigenfaces using PCA:
 We were asked to compute the top 10 eigenfaces using different dataset sizes: 10, 20, 50, 100, 200, and 300 images. This task helped us analyze how dataset size affects the principal components.
